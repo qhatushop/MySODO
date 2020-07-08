@@ -23,7 +23,7 @@
         "display7Size": 1.2,
         "display4Font": "Orbitron",
         "display4Size": ".8",
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
